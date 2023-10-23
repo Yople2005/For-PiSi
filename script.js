@@ -1,4 +1,4 @@
-   
+
     var showButton = document.getElementById("showButton");
     var hiddenParagraph = document.getElementById("hiddenParagraph");
 
